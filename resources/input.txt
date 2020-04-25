@@ -1,0 +1,24 @@
+studentgroups
+ISE(7-Sem-'A') SEC 10 WEB 10 SADP 10 CCA 10 ML 10 MLLAB 5 WBLAB 5
+ISE(7-Sem-'B') SEC 10 WEB 10 SADP 10 CCA 10 ML 10 MLLAB 5 WBLAB 5
+ISE(8-Sem-'A') VR 10 IOT 10 BDA 10 PROJECT 4
+ISE(8-Sem-'B') IOT 10 PROJECT 4 BDA 10 VR 10 
+teachers
+Arti Arya SEC
+Saloni Mishra WEB
+Suchitra SADP
+Suchitra CCA
+Reshma CCA
+Srinath ML
+Arti Arya ML
+Animesh MLLAB
+Kakoli MLLAB
+Saloni K.V WEBLAB
+VijaySagar WEBLAB
+Animesh IOT
+Guide PROJECT
+Arya Deep BDA
+Suchitra VR
+Pragya VR
+Srinath IOT
+end
